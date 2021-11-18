@@ -1,4 +1,3 @@
-# croct-test
 Feature: Sign in
 
 	The screen / View that the user needs to fill the text boxes before trying to enter on his profile. It’s necessary to write the email and password before sign in 
