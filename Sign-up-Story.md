@@ -79,7 +79,7 @@ Feature: Sign up
 			         When I click on “Sign up” 
 			         Then I should see “You created an account”
 
-		      Example: Creating an account and want to see the if the password is strong
+		      Example: Creating an account and want to see if the password is strong
 			         Given I, the user, click on “Sign up” on the “Sign in” screen
                              And I am redirected to the “Create Account” screen
                              And I type in my “First and Last name”  
